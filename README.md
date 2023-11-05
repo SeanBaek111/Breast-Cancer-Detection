@@ -25,7 +25,7 @@ Load the downloaded model weights as instructed in the notebook.
 Any contributions to enhance the project are highly appreciated.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/SeanBaek111/Breast-Cancer-Detection/blob/main/LICENSE) file for details.
 
 ## Acknowledgements
 Appreciation goes to all who have contributed to the accuracy of breast cancer detection.
