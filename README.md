@@ -12,6 +12,7 @@ Clone this repository to your local machine. Within, you will find the `RunMulti
 Datasets used in this study are provided in two resolutions, 256x256 and 512x512. Access these via the shared Google Drive links and follow the directory structure specified in the notebook instructions.
 
 - [256 & 512 Dataset](https://drive.google.com/file/d/1Lv7J1UpfxsfK8TPxUyzZ9wlCy82IiS_4/view?usp=sharing)
+- [1024 Dataset](https://www.kaggle.com/datasets/seanbaek19/cbis-ddsm-1024/)
 
 ## Model Weights
 The highest performing model's weights are available for download. Use the link below to access them, and follow the notebook instructions to integrate them with the model.
