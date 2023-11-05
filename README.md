@@ -3,6 +3,8 @@
 ## Overview
 This project repository has been developed to feature a multi-classifier system for breast cancer detection using deep learning to classify mammographic images.
 
+<img width="500" alt="image" src="https://github.com/SeanBaek111/Breast-Cancer-Detection/assets/33170173/cf7ef6ab-052f-4ebb-904b-a2e5fbf52db1">
+
 ## Getting Started
 Clone this repository to your local machine. Within, you will find the `RunMultiClassifier.ipynb`, the main executable notebook that runs the `MultiClassifier.ipynb` containing the multi-classifier logic.
 
